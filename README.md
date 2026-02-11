@@ -57,7 +57,7 @@ The application is built with Streamlit to provide an interactive web interface 
 - Streamlit
 - Pandas
 - Scikit-learn
-- Regular Expressions (re)
+- Regular Expressions(re)
 
 ## Project Structure
 
